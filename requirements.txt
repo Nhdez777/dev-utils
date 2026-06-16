@@ -1,0 +1,2 @@
+# no external deps — stdlib only
+# python 3.10+ required
